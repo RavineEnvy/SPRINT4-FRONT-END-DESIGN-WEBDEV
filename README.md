@@ -91,4 +91,4 @@ Os dados serão armazenados no `LocalStorage` do navegador e poderão ser utiliz
 
 O projeto está disponível online através da plataforma Vercel:
 
-- **Vercel:** []()
+- **Vercel:** [https://meu-app-chi-ten.vercel.app](https://meu-app-chi-ten.vercel.app)
